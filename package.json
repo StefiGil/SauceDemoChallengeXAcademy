@@ -1,0 +1,21 @@
+{
+  "name": "saucedemochallengexacademy",
+  "version": "1.0.0",
+  "description": "E2E Framework Testing Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "testing",
+    "cypress"
+  ],
+  "author": "Stefania Gil",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.16.1"
+  }
+}
