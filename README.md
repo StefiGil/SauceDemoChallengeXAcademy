@@ -19,16 +19,16 @@ Este proyecto contiene el desafío final del curso de automatización de pruebas
 
 1. Clona este repositorio con el siguiente comando:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/StefiGil/SauceDemoChallengeXAcademy.git 
 2. Acceder al directorio del proyecto
    ```bash
-   cd <NOMBRE_DEL_PROYECTO>
+   cd SauceDemoChallengeXAcademy 
 3. Instalar las dependencias
    ```bash
    npm install
 4. Abrir Cypress para ejecutar los tests
    ```bash
-   npx cypress open
+   npm run cypress:open
 ---
 
-
+Si tienes preguntas o necesitas más información, no dudes en contactarme.
